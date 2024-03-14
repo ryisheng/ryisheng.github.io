@@ -4,7 +4,7 @@ feature_text: |
   A demo of Markdown and HTML includes
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
-aside: true
+aside: false
 ---
 
 # Heading 1
@@ -44,7 +44,7 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 Some HTML...
 
 ``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
+<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101`">
   <p>You planning a vacation, Mr. Sullivan?</p>
   <footer>
     <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>

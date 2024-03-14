@@ -7,8 +7,8 @@
 
 html {
   font-family: sans-serif; /* 1 */
-  -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+  -ms-text-size-adjust: 90%; /* 2 */
+  -webkit-text-size-adjust: 90%; /* 2 */
 }
 
 /**
@@ -116,6 +116,7 @@ abbr[title] {
   border-bottom: none; /* 1 */
   text-decoration: underline; /* 2 */
   text-decoration: underline dotted; /* 2 */
+  size: 1em;
 }
 
 /**
