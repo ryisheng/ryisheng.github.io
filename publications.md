@@ -2,7 +2,7 @@
 title: Publications
 excerpt: "My publications during the time studying"
 feature_text: |
-  If you want something you never had, you must be willing to do something you have.
+  <small>If you want something you've never had you must be willing to do something you've never done.<small>
 feature_image: "https://firebasestorage.googleapis.com/v0/b/my-image-805c1.appspot.com/o/IMG20230812172336.jpg?alt=media&token=c89136c0-a65b-4248-a99d-13a715390f0f"
 ---
 

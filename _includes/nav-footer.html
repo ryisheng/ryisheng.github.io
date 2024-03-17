@@ -1,7 +1,7 @@
 {% if site.navigation_footer %}
 <nav class="nav  nav--footer">
   <ul class="list list--nav">
-    {% for item in site.navigation_footer %}
+    <!-- {% for item in site.navigation_footer %}
 
       {% if item.url contains '://' %}
         {% assign url = item.url %}
@@ -12,7 +12,8 @@
       <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
         <a href="{{ url }}">{{ item.title }}</a>
       </li>
-    {% endfor %}
+    {% endfor %} -->
+    {% include nav-social.html %}
   </ul>
 </nav>
 {% else %}
